@@ -1,5 +1,6 @@
-# VASSAR_exec
+# Earth Observation Satellite Systems (EOSS) design optimization with design heuristics
 
+Note: This repo is a copy of the seakers/VASSAR_exec repo - heuristics branch
 Scripts to generate datasets for the EOSS problems for the paper: 
 Suresh Kumar, Roshan, Srikar Srivatsa, Emilie Baker, Meredith Silberstein, and Daniel Selva. "Identifying and Leveraging Promising Design Heuristics for Multi-Objective Combinatorial Design Optimization." Journal of Mechanical Design 145, no. 12 (2023).
 
